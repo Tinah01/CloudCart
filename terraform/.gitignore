@@ -1,0 +1,10 @@
+# Terraform ignored files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+
+# Node.js ignored files
+node_modules/
+npm-debug.log
